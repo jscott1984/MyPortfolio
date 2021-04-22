@@ -1,6 +1,6 @@
 # Overview
 
-The project show how you write “Hello World” in command prompt on windows 10. The “iostream” provide cout for the text and “using namespace std” is used so you don’t need to use “std::cout.” 
+The project show how you write “Hello World” in c++ and display the messsage in command prompt on windows 10. The “iostream” provide cout for the text and “using namespace std” is used so you don’t need to use “std::cout.” 
 
 [Software Demo Video](https://youtu.be/_tEBheq-Ca0)
 
