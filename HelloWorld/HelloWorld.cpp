@@ -3,7 +3,8 @@ using namespace std;
 
 int main()
 {
-	cout << "Hello Wolrd!" << endl;
+	//std::cout << "Hello Wolrd!\n";
+	cout << "Hello Wolrd!\n";
 
 	system("pause");
 	return 0;
