@@ -7,7 +7,7 @@ class, one called Node and the other called Linked to make a linked-list to stor
 the prime numbers that the program found. 
  
 
-[Software Demo Video](https://youtu.be/fz6agnZTvLk)
+[Youtube Software Demo Video](https://youtu.be/fz6agnZTvLk)
 
 # Development Environment
 
@@ -16,5 +16,5 @@ I used visual studio. I started with an empty project for python.
 # Useful Websites
 
 This would be a helpful link 
-* [Web Site Name](https://www.w3schools.com/python/default.asp)
+* [W3schools.com](https://www.w3schools.com/python/default.asp)
 
