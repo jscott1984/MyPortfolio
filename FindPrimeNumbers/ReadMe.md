@@ -7,7 +7,7 @@ This program make a menu for the user. Find all the prime number below a number.
 
 # Development Environment
 
-I used IntelliJ IDEA Community Edition 2021.1.1 x64. I started with an empty project. This Inellij made the file structure strange. you can find the code in FindPrimeNumbers/src/PrimeNumbers/
+I used IntelliJ IDEA Community Edition 2021.1.1 x64. I started with an empty project. This Inellij made the file structure strange. You can find the code in FindPrimeNumbers/src/PrimeNumbers/
 
 # Useful Websites
 
