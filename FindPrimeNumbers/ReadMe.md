@@ -1,17 +1,13 @@
 # Overview
 
-This program find all the prime number below a number that the user input. It also
-calculate Pi out to 5 dicemal place. the last thing it does is it use prime numbers
-plus one and the result is a prime number. This is code written in python.I use two 
-class, one called Node and the other called Linked to make a linked-list to store 
-the prime numbers that the program found. 
+This program make a menu for the user. Find all the prime number below a number. Find all prime number between a two numbers. Calculate PI and Quit. this also can handle invalid input from the user. this Write to a file after it find the prime numbesr than read frim the file to display thewm. This is code is written in Java.I used one class for the linked list
  
 
-[Youtube Software Demo Video](https://youtu.be/fz6agnZTvLk)
+[Youtube Software Demo Video](https://youtu.be/WKUsP_V3Qsc)
 
 # Development Environment
 
-I used visual studio. I started with an empty project for python.
+I used IntelliJ IDEA Community Edition 2021.1.1 x64. I started with an empty project.
 
 # Useful Websites
 
