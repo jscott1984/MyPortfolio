@@ -1,6 +1,6 @@
 # Overview
 
-This program make a menu for the user. there a insert, this add another field in the doc on the database. the modify change a field to a different value. Delete remove a field on the doc in the database.
+This program make a menu for the user. There a insert, this add another field in the doc on the database. The modify change a field to a different value. Delete remove a field on the doc in the database.
  
 
 [Youtube Software Demo Video](https://youtu.be/cO-D7gRjG84)
