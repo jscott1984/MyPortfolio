@@ -1,0 +1,12 @@
+C:\Users\Joseph\source\repos\LocalDB\bin\Debug\LocalDB.exe.config
+C:\Users\Joseph\source\repos\LocalDB\bin\Debug\LocalDB.exe
+C:\Users\Joseph\source\repos\LocalDB\bin\Debug\LocalDB.pdb
+C:\Users\Joseph\source\repos\LocalDB\obj\Debug\LocalDB.csprojAssemblyReference.cache
+C:\Users\Joseph\source\repos\LocalDB\obj\Debug\LocalDB.Form1.resources
+C:\Users\Joseph\source\repos\LocalDB\obj\Debug\LocalDB.Properties.Resources.resources
+C:\Users\Joseph\source\repos\LocalDB\obj\Debug\LocalDB.csproj.GenerateResource.cache
+C:\Users\Joseph\source\repos\LocalDB\obj\Debug\LocalDB.csproj.CoreCompileInputs.cache
+C:\Users\Joseph\source\repos\LocalDB\obj\Debug\LocalDB.exe
+C:\Users\Joseph\source\repos\LocalDB\obj\Debug\LocalDB.pdb
+C:\Users\Joseph\source\repos\LocalDB\bin\Debug\Database.mdf
+C:\Users\Joseph\source\repos\LocalDB\bin\Debug\Database_log.ldf
