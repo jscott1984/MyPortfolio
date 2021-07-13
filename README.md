@@ -1,3 +1,3 @@
 # MyPortfolio
-This contain all of my projects
+This contain some of my projects
 
